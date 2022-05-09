@@ -63,8 +63,8 @@ The Superstriker of the Match - Rishabh Pant <br>
 And Finally, The Man of The Match - You guessed it, Devon Conway
 </h4>
 <h2> General Stats and The Points Table </h2>
-<h3>The Orange Cap - Jos The Boss Butler - 618 Runs<br>
-The Purple Cap - Yuzi Chahal - 22 Wickets</h3>
+ <h3> Orange Cap - Jos Buttler (RR) with 618 runs</p>
+ <h3> Purple Cap - Yuzvendra Chahal (RR) with 22 wickets and 1 hatrick</p>
 <h3> For More Stats View Here <a href="https://www.iplt20.com/stats/2022" IPL Stats </a>
 <h3> The Points Table </h3>
 <a href="https://www.iplt20.com/points-table/men/2022" Points Table </a>
