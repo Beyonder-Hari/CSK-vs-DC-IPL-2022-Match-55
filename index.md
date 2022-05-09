@@ -33,7 +33,7 @@ Simarjeet Singh<br>
 <h4> DC Won the Toss and Elected to Field First </h4>
 
 <h3> Words From The Captains </h3>
-<h5>MS Dhoni: We would have bowled first. Toss is not in our control. When there are a few changes after a big auction, sometimes you need to see what is the best combination.
+<h4>MS Dhoni: We would have bowled first. Toss is not in our control. When there are a few changes after a big auction, sometimes you need to see what is the best combination.
  Jadeja is not fit. Dube comes in.
 Rishabh Pant: We want to chase. The season has been up and down. It is going to be a good match. I have learnt a lot from MS Dhoni. Let's see how I execute them. 
 Two changes for us. KS Bharat comes in for Mandeep and Axar Patel is in for Lalit Yadav.</h5>
