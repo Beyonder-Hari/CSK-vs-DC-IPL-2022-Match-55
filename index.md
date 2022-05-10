@@ -68,7 +68,6 @@ And Finally, The Man of The Match - You guessed it, Devon Conway
 <h3> For More Stats View Here <a href="https://www.iplt20.com/stats/2022"> IPL Stats </a>
 <h3> The Points Table </h3>
   <h3><a href="https://www.iplt20.com/points-table/men/2022?msclkid=0086ce1cd02811eca7655ef4cf7c150c">Points Table</a><h3>
-
 <h3>Match Highlights</h3><iframe width="420" height="345" src="https://www.iplt20.com/video/44829/m55-csk-vs-dc--match-highlights?tagNames=indian-premier-league,highlights,indian-premier-league,highlights">
 </iframe>
 <h2> That's it for today's match! See You Tomorrow!</h2>
