@@ -12,7 +12,7 @@ and Hats Off to people who watch Tamil Commentary and still have their Ears! The
 Ok Jokes aside now, What a Killer Match it was! Sixes, Fours, Wicket, Wides, No-Balls, You get my point Right. So lets go over this match Step By Step.
 </p> 
 <h2> The Playing XI </h2>
-<h3> The Chennai Super Kings </h2>
+<h3> The Chennai Super Kings </h3>
 <h3> Ruturaj Gaikwad <br>
 Devon Conway<br>
 Shivam Dube<br>
@@ -36,7 +36,7 @@ Simarjeet Singh<br>
 <h4>MS Dhoni: We would have bowled first. Toss is not in our control. When there are a few changes after a big auction, sometimes you need to see what is the best combination.
  Jadeja is not fit. Dube comes in.
 Rishabh Pant: We want to chase. The season has been up and down. It is going to be a good match. I have learnt a lot from MS Dhoni. Let's see how I execute them. 
-Two changes for us. KS Bharat comes in for Mandeep and Axar Patel is in for Lalit Yadav.</h5>
+Two changes for us. KS Bharat comes in for Mandeep and Axar Patel is in for Lalit Yadav.</h4>
 
 <h2>The Game</h2>
 <h3> CSK's Innings </h3>
@@ -63,16 +63,16 @@ The Superstriker of the Match - Rishabh Pant <br>
 And Finally, The Man of The Match - You guessed it, Devon Conway
 </h4>
 <h2> General Stats and The Points Table </h2>
- <h3> Orange Cap - Jos Buttler (RR) with 618 runs</p>
- <h3> Purple Cap - Yuzvendra Chahal (RR) with 22 wickets and 1 hatrick</p>
+ <h3> Orange Cap - Jos Buttler (RR) with 618 runs</h3>
+ <h3> Purple Cap - Yuzvendra Chahal (RR) with 22 wickets and 1 hatrick</h3>
 <h3> For More Stats View Here <a href="https://www.iplt20.com/stats/2022" IPL Stats </a>
 <h3> The Points Table </h3>
-<a href="https://www.iplt20.com/points-table/men/2022" Points Table </a>
+ <h3><a href="https://www.iplt20.com/points-table/men/2022" Points Table </a></h3>
 
 <h3>Match Highlights</h3>
-<a href="https://www.iplt20.com/video/44829/m55-csk-vs-dc--match-highlights" CSK VS DC Highlights </a>
+<a href="https://www.iplt20.com/video/44829/m55-csk-vs-dc-match-highlights" CSK VS DC Highlights </a>
 <h2> That's it for today's match! See You Tomorrow!</h2>
 <h2> Reference</h2>
-For more information, you can go to the official IPL website - <a href="https://www.iplt20.com">Click Me! </a>
+<h3>For more information, you can go to the official IPL website - <a href="https://www.iplt20.com">Click Me! </a></h3>
 </body>
 </html>
