@@ -72,7 +72,7 @@ And Finally, The Man of The Match - You guessed it, Devon Conway
 </iframe>
 <h2> That's it for today's match! See You Tomorrow!</h2>
 <h2> Reference</h2>
-<h3>For more information, you can go to the official IPL website - <a href="https://www.iplt20.com">Click Me! </a></h3>
+For more information, you can go to the official IPL website - <a href="https://www.iplt20.com">Click Me! </a>
 
  </body>
 </html>
